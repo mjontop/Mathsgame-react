@@ -1,0 +1,22 @@
+.incorrect {
+    color: red;
+}
+
+
+
+body{
+    margin-left: 42%;
+    color: wheat;
+    background: #000;
+    font-size: 2rem;
+}
+
+input{
+    font-size: 1.6rem;
+}
+  @media (max-width: 768px) {
+     body{
+         margin-left: 30%;
+     }
+}
+ 
